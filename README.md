@@ -7,3 +7,11 @@ No vídeo que acompanha esta postagem, você terá uma visão detalhada de como 
 Além disso, implementei o Handlebars para criar uma interface de usuário atraente e responsiva, tornando a experiência do usuário ainda mais agradável. A capacidade de resgatar dados, aplicar lógica de busca e adicionar informações ao banco de dados foi essencial para garantir que o Job Hunt ofereça uma solução abrangente para os desenvolvedores em busca de emprego.
 
 Assista ao vídeo para descobrir como o Job Hunt está transformando a maneira como os desenvolvedores encontram oportunidades de emprego e como você pode se beneficiar dessa plataforma inovadora.
+
+
+![image](https://github.com/ViniciusBorgesdeAraujo/JobHunt/assets/105869015/c8ee5afc-8a2b-4c76-89e9-844586d84a56)
+
+
+
+https://github.com/ViniciusBorgesdeAraujo/JobHunt/assets/105869015/e41f05e8-bcae-4eb8-be67-7e596a82502e
+
