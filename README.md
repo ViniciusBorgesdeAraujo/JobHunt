@@ -60,4 +60,4 @@ Agora você está pronto para explorar o Job Hunt e suas funcionalidades! Se pre
 Este projeto está licenciado sob a [licença MIT](LICENSE). Veja o arquivo LICENSE para mais detalhes.
 ```
 
-Agora o README inclui um link para a licença MIT no final do documento. Se precisar de mais alguma coisa, estou à disposição para ajudar!
+
