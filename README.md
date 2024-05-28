@@ -1,3 +1,5 @@
+Claro, aqui está o README atualizado com o link para a licença:
+
 ```markdown
 # Job Hunt - Busca de Emprego para Desenvolvedores
 
@@ -54,6 +56,10 @@ Isso iniciará o servidor e você poderá acessar a aplicação através do seu 
 Agora você está pronto para explorar o Job Hunt e suas funcionalidades! Se precisar de mais alguma coisa, estou à disposição para ajudar!
 
 ![image](https://github.com/ViniciusBorgesdeAraujo/JobHunt/assets/105869015/c8ee5afc-8a2b-4c76-89e9-844586d84a56)
+
+## Licença
+
+Este projeto está licenciado sob a [licença MIT](LICENSE). Veja o arquivo LICENSE para mais detalhes.
 ```
 
-Essas correções e formatações devem ajudar a tornar o README mais claro e apresentável. Se precisar de mais alguma modificação ou assistência, estou à disposição para ajudar!
+Agora o README inclui um link para a licença MIT no final do documento. Se precisar de mais alguma coisa, estou à disposição para ajudar!
