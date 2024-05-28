@@ -1,4 +1,3 @@
-```markdown
 # Job Hunt - Busca de Emprego para Desenvolvedores
 
 O Job Hunt é o resultado de um percurso dedicado, onde utilizei não apenas React e JavaScript, mas também uma série de outras tecnologias essenciais no desenvolvimento web moderno.
@@ -17,7 +16,7 @@ A capacidade de resgatar dados, aplicar lógica de busca e adicionar informaçõ
    Você pode clonar o repositório do projeto utilizando o seguinte comando no terminal:
 
    ```bash
-  git clone https://github.com/ViniciusBorgesdeAraujo/JobHunt
+     git clone https://github.com/ViniciusBorgesdeAraujo/JobHunt
    ```
 
 2. **Instalar Dependências:**
@@ -31,7 +30,7 @@ A capacidade de resgatar dados, aplicar lógica de busca e adicionar informaçõ
    ou
 
    ```bash
-   cd [nome do diretório]
+   cd JobHunt
    yarn
    ```
 
