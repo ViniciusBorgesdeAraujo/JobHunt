@@ -1,5 +1,3 @@
-Aqui está o texto com as correções e formatações aplicadas:
-
 ```markdown
 # Job Hunt - Busca de Emprego para Desenvolvedores
 
