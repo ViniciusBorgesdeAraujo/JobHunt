@@ -17,14 +17,14 @@ A capacidade de resgatar dados, aplicar lógica de busca e adicionar informaçõ
    Você pode clonar o repositório do projeto utilizando o seguinte comando no terminal:
 
    ```bash
-   git clone [URL do Repositório]
+  git clone https://github.com/ViniciusBorgesdeAraujo/JobHunt
    ```
 
 2. **Instalar Dependências:**
    Após baixar o projeto, navegue até o diretório do projeto e instale as dependências utilizando o npm ou yarn:
 
    ```bash
-   cd [nome do diretório]
+   cd JobHunt
    npm install
    ```
 
