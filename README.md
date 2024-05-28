@@ -1,5 +1,3 @@
-Claro, aqui está o README atualizado com o link para a licença:
-
 ```markdown
 # Job Hunt - Busca de Emprego para Desenvolvedores
 
