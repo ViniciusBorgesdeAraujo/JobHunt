@@ -39,7 +39,7 @@ A capacidade de resgatar dados, aplicar lógica de busca e adicionar informaçõ
 Depois de instalar as dependências, você pode executar o projeto localmente. Certifique-se de ter configurado corretamente seu ambiente Node.js e banco de dados.
 
 ```bash
-npm start
+npm run dev
 ```
 
 ou
