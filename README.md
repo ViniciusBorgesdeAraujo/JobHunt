@@ -56,7 +56,7 @@ Agora você está pronto para explorar o Job Hunt e suas funcionalidades! Se pre
 
 ## Licença
 
-Este projeto está licenciado sob a [licença MIT](LICENSE). Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a [licença MIT](LICENSE). Veja o arquivo LICENSE para mais detalhes
 ```
 
 
